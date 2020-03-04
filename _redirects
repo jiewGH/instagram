@@ -1,7 +1,7 @@
 # Write your redirects here
 # Patterns: /{shorten url} {full url} 302
 
-/helloplanet https://youtu.be/_dlyIyfd9s0 302
+/helloplanet https://www.instagram.com/jeiwtem/
 
 # Redirect any unmatched URLs to other default site
-/* https://rayriffy.com 302
+/* https://sahatsawat.com 302
